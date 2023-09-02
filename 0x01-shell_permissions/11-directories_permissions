@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 711 idir0 dir1 dir2
+chmod -R 711 idir0 dir1 dir2
